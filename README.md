@@ -1,3 +1,3 @@
-# Analisis-Cluster-Harga-Properti-Jabodetabek-untuk-Pemilihan-Rumah-Sesuai-Budget
+# Analisis Cluster Harga Properti Jabodetabek untuk Pemilihan Rumah Sesuai Budget
 
 Proyek clustering bertujuan untuk mengelompokkan harga properti di Jabodetabek agar masyarakat dapat dengan mudah menemukan rumah sesuai anggaran. Dengan menggunakan metode seperti K-Means, K-Medoids, dan K-Modes, data harga properti dikelompokkan berdasarkan karakteristik tertentu dan dievaluasi menggunakan Silhouette Score untuk menilai kualitas clustering. Hasilnya, terdapat empat cluster utama: properti di Bogor dan Bekasi dengan harga rata-rata 1-2 milyar, Tangerang dan Tangerang Selatan di bawah 1 milyar, Jakarta Selatan antara 5-6 milyar, serta Jakarta Barat di bawah 1 milyar. Visualisasi hasil clustering membantu masyarakat dalam pengambilan keputusan pembelian rumah sesuai kebutuhan dan kemampuan finansial.
